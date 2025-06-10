@@ -5,6 +5,7 @@ chat-application/
 ├── UserAuth.java      // Login/Register handling
 ├── users.txt          // User data
 
+
 🚀 How to Run:
 1.Compile all Java files:
       
