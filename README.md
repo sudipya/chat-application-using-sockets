@@ -7,13 +7,16 @@ chat-application/
 
 🚀 How to Run:
 1.Compile all Java files:
-javac Server.java Client.java UserAuth.java
+      
+      javac Server.java Client.java UserAuth.java
 
 2.Start the server:
-java Server
+
+    java Server
 
 3.Open new terminal windows for each client:
-java Client
+
+  java Client
 
 Follow on-screen prompts to register/login and chat.
 
