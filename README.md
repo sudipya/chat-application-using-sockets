@@ -1,8 +1,12 @@
 🗃️ Project Structure:
 chat-application/
+
 ├── Server.java        // Server-side logic
+
 ├── Client.java        // Client-side logic
+
 ├── UserAuth.java      // Login/Register handling
+
 ├── users.txt          // User data
 
 
